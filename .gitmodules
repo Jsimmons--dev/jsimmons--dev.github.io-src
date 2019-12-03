@@ -1,0 +1,6 @@
+[submodule "jsimmons--dev.github.io"]
+	path = jsimmons--dev.github.io
+	url = git@github.com:Jsimmons--dev/jsimmons--dev.github.io.git
+[submodule "output"]
+	path = output
+	url = git@github.com:Jsimmons--dev/jsimmons--dev.github.io.git
